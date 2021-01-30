@@ -9,6 +9,7 @@
 ## Installation
 - PHP: 7.2.34
 - Apache: 2.4.46 (Win64)
+- Composer 2.0.8
 - PHPUnit 8
 
 ## Usage
