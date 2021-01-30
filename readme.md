@@ -19,7 +19,12 @@
 - To run test it´s necesary the following sentence: 
     "phpunit --bootstrap ../../Multiples_Numbers.php ../../Multiples_Numbers_Test.php"
     
-    \falabella\vendor\bin> phpunit --bootstrap ../../Multiples_Numbers.php ../../Multiples_Numbers_Test.php
+    You need stay in root project, and open the terminal or console you need navigate to vendor\bin\ and execute phpunit:
+    1) cd vendor
+    2) cd bin
+    output: (Directory to execute phpunit) 
+    >>> \falabella\vendor\bin> 
+    3) \falabella\vendor\bin> phpunit --bootstrap ../../Multiples_Numbers.php ../../Multiples_Numbers_Test.php
     
 - The output is:
 
